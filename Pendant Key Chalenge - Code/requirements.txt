@@ -1,0 +1,8 @@
+numpy
+opencv-python
+Pillow
+moviepy
+mediapipe
+torch
+torchvision
+segment-anything
